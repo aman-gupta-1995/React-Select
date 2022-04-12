@@ -7,7 +7,7 @@ const setup = [
   { width: 768, height: 1024, viewport: 'ipad-2', device: 'Tablet' },  
 ];  
   
-describe('Multi Select', () => { 
+describe('Multi Select', () => {  
   before(() => {
     cy.visit(cypressJson.baseUrl);
     cy.title().should('equal', 'React-Select');
