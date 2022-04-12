@@ -6,7 +6,7 @@ const setup = [
   { width: 375, height: 667, viewport: 'iphone-6', device: 'Mobile' },  
   { width: 768, height: 1024, viewport: 'ipad-2', device: 'Tablet' },  
 ];  
- 
+  
 describe('Multi Select', () => { 
   before(() => {
     cy.visit(cypressJson.baseUrl);
