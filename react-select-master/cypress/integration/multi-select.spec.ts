@@ -4,7 +4,7 @@ import cypressJson from '../../cypress.json';
 const setup = [
   { width: 1440, height: 900, viewport: 'macbook-15', device: 'Laptop' },
   { width: 375, height: 667, viewport: 'iphone-6', device: 'Mobile' },
-  { width: 768, height: 1024, viewport: 'ipad-2', device: 'Tablet' },
+  { width: 768, height: 1024, viewport: 'ipad-2', device: 'Tablet' }, 
 ];
 
 describe('Multi Select', () => {
