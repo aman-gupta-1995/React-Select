@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 
 import AsyncCreatable from '../AsyncCreatable';
 import { Option, OPTIONS } from './constants';
