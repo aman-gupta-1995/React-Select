@@ -26,7 +26,7 @@ test('render decorated select with props passed', () => {
 
 test('to show the create option in menu', () => {
   let { container, rerender } = render(
-    <AsyncCreatable className="react-select" classNamePrefix="react-select" />  
+    <AsyncCreatable className="react-select" classNamePrefix="react-select" />    
   ); 
   let input = container.querySelector('input.react-select__input');
   rerender(
