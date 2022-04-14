@@ -8,7 +8,7 @@ import userEvent from '@testing-library/user-event';
 test('defaults - snapshot', () => {  
   const { container } = render(<AsyncCreatable />);     
   expect(container).toMatchSnapshot();  
-});
+}); 
 
 test('creates an inner Select', () => {
   const { container } = render(
