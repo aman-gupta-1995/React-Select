@@ -30,7 +30,7 @@ test('to show the create option in menu', () => {
   ); 
   let input = container.querySelector('input.react-select__input');
   rerender(
-    <AsyncCreatable
+    <AsyncCreatable 
       className="react-select"
       classNamePrefix="react-select"
       inputValue="a"
