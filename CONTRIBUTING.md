@@ -1,7 +1,7 @@
 # Contributing
 
 Thanks for your interest in React-Select. All forms of contribution are 
-welcome, from issue reports to PRs and documentation / write-ups. 
+welcome, from issue reports to PRs and documentation / write-ups.  
   
 Before you open a PR:    
  
