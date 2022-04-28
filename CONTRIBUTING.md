@@ -7,7 +7,7 @@ Before you open a PR:
   
 - In development, run `yarn start` to build (and watch) the project source, and run   
   the [development server](http://localhost:8000).  
-- Please ensure all the examples work correctly after your change. If you're
+- Please ensure all the examples work correctly after your change. If you're 
   adding a major new use-case, add a new example `/docs/examples` and subsequent documentation demonstrating its use `/docs/pages`.
 - Ensure that your effort is aligned with the project's roadmap by talking to
   the maintainers, especially if you are going to spend a lot of time on it.
