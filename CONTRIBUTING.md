@@ -3,7 +3,7 @@
 Thanks for your interest in React-Select. All forms of contribution are
 welcome, from issue reports to PRs and documentation / write-ups.
   
-Before you open a PR:  
+Before you open a PR:   
  
 - In development, run `yarn start` to build (and watch) the project source, and run
   the [development server](http://localhost:8000).
