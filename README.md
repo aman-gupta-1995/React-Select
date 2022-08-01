@@ -26,7 +26,7 @@ Features include:
 - [v2 to v3 upgrade guide](https://github.com/JedWatson/react-select/issues/3585)
 - [v1 to v2 upgrade guide](https://react-select.com/upgrade-guide)
 - React Select v1 documentation and examples are available at [v1.react-select.com](https://v1.react-select.com)
-
+ 
 # Installation and usage
 
 The easiest way to use react-select is to install it from npm and build it into your app with Webpack.
