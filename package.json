@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "A Select control built with and for ReactJS",
-  "author": "Jed Watson", 
+  "author": "Jed Watson",  
   "license": "MIT",    
   "repository": {  
     "type": "git",    
