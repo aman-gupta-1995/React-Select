@@ -3,7 +3,7 @@
 import AsyncCreatable from '../AsyncCreatable';
 import { Option, OPTIONS } from './constants';
 import { render, waitFor } from '@testing-library/react';
-import userEvent from '@testing-library/user-event'; 
+import userEvent from '@testing-library/user-event';  
       
 test('defaults - snapshot', () => {      
   const { container } = render(<AsyncCreatable />);     
