@@ -10,7 +10,7 @@
     "url": "https://github.com/JedWatson/react-select.git"    
   },
   "dependencies": { 
-    "@atlaskit/button": "^15.1.4",
+    "@atlaskit/button": "^15.1.4", 
     "@atlaskit/icon": "^11.0.1",
     "@atlaskit/modal-dialog": "^11.2.5",
     "@atlaskit/spinner": "^15.0.6",
