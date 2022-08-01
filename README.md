@@ -4,7 +4,7 @@
 [![Supported by Thinkmill](https://thinkmill.github.io/badge/heart.svg)](http://thinkmill.com.au/?utm_source=github&utm_medium=badge&utm_campaign=react-select)
   
 # React-Select
-  
+   
 The Select control for [React](https://reactjs.com). Initially built for use in [KeystoneJS](http://www.keystonejs.com).
 
 See [react-select.com](https://www.react-select.com) for live demos and comprehensive docs.
