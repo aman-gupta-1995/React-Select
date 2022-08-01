@@ -3,7 +3,7 @@
     "target": "es6",
     "module": "commonjs",   
     "jsx": "react",
-    "noEmit": true, 
+    "noEmit": true,  
     "strict": true,   
     "esModuleInterop": true, 
     "forceConsistentCasingInFileNames": true, 
