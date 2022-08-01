@@ -5,7 +5,7 @@
   "description": "A Select control built with and for ReactJS",
   "author": "Jed Watson",  
   "license": "MIT",    
-  "repository": {    
+  "repository": {     
     "type": "git",      
     "url": "https://github.com/JedWatson/react-select.git"    
   },
